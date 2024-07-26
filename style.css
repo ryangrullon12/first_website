@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb#797124;
+    color: aliceblue;
+    font-size: 32px;
+    padding: 5px; 
+}
+
+nav {
+    background: #797124;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.items {
+    width: 60px;
+}
+a {
+    text-decoration: none;
+}
+
+.items:hover {
+    opacity: 0.5;
+    border-color: antiquewhite;
+    border-top: 30px;
+ }
+ 
+ 
+ a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+ }
+ 
+ img {
+   width: 450px;
+ }
+
+
+ #one{
+    border: 5px solid rgb(250, 250, 250);
+    margin: 60px;
+    display: flex;
+    justify-content:space-around;
+ }
+
+ h1{
+    color: azure;
+ }
+
+ #Education{
+    border: 5px solid rgb(250, 250, 250);
+    margin: 60px;
+    display: flex;
+    justify-content:space-around;
+ }
+
+ #two{
+    border: 5px solid rgb(250, 250, 250);
+    margin: 60px;
+    display: flex;
+    justify-content:space-around; 
+ }
+
+ #sports{
+    border: 5px solid rgb(250, 250, 250);
+    margin: 60px;
+    display: flex;
+    justify-content:space-around; 
+ }
